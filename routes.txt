@@ -1,0 +1,14 @@
+GET http://localhost:3000/products
+
+###
+
+GET http://localhost:3000/products/15
+
+
+# Other APIs
+     GET /products
+    POST /products
+    PUT /products/:productId
+    DELETE /products/:productId
+    GET /products/:productId
+    PATCH /products/:productId
